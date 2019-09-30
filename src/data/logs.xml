@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<logs>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 04:48:35</data>
+    <funcionario>Leonardo Scheidegger</funcionario>
+    <operacao>Bônus Consultado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 04:56:24</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 04:56:39</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 04:56:43</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 04:59:10</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 05:10:30</data>
+    <funcionario>Wiliam</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 05:11:10</data>
+    <funcionario>Neymar</funcionario>
+    <operacao>Inclusão</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:17:30</data>
+    <funcionario>Pele</funcionario>
+    <operacao>Inclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:08</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:22</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:22</data>
+    <funcionario>Leonardo Scheidegger</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:22</data>
+    <funcionario>Danielle</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:22</data>
+    <funcionario>Wiliam</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:22</data>
+    <funcionario>Guilherme</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:22</data>
+    <funcionario>Neymar</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:18:22</data>
+    <funcionario>Pele</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:35:04</data>
+    <funcionario>Leonardo Scheidegger</funcionario>
+    <operacao>Bônus Consultado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:35:31</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:35:43</data>
+    <funcionario>Pele</funcionario>
+    <operacao>Bônus Consultado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:35:50</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:35:56</data>
+    <funcionario>Leonardo Scheidegger</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:36:02</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:36:07</data>
+    <funcionario>Danielle</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:36:12</data>
+    <funcionario>Wiliam</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:36:18</data>
+    <funcionario>Guilherme</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:36:22</data>
+    <funcionario>Neymar</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 06:36:28</data>
+    <funcionario>Pele</funcionario>
+    <operacao>Exclusão</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:12:04</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:14:21</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:16:59</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:17:05</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:17:40</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:18:00</data>
+    <funcionario>William</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:18:07</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:18:07</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:18:07</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:18:17</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:18:17</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:18:17</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:22:04</data>
+    <funcionario>William</funcionario>
+    <operacao>Bônus Consultado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:22:54</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Inclusão</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:23:05</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Bônus Consultado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:23:22</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:23:22</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:23:22</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:23:22</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:23:30</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Bônus Consultado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:25:34</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:25:34</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:25:34</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:47:00</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:47:07</data>
+    <funcionario>Leonardo Moreli</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:47:16</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:47:26</data>
+    <funcionario>Danielle Camatta</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:47:33</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:47:44</data>
+    <funcionario>William</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:47:55</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:03</data>
+    <funcionario>Bruce Wayne</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:15</data>
+    <funcionario>Robim</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:22</data>
+    <funcionario>Guilherme</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Leonardo Moreli</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Danielle Camatta</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Bruce Wayne</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Robim</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:26</data>
+    <funcionario>Guilherme</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Leonardo Moreli</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Danielle Camatta</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Bruce Wayne</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Robim</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:48:34</data>
+    <funcionario>Guilherme</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Leonardo Moreli</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Danielle Camatta</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Bruce Wayne</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Robim</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:00</data>
+    <funcionario>Guilherme</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Leonardo Moreli</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Danielle Camatta</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Valber</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Bruce Wayne</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Robim</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 11:56:03</data>
+    <funcionario>Guilherme</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>27/06/2018 12:41:09</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+<log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:45:06</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:45:06</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:45:06</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:45:06</data>
+    <funcionario>Joao Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:45:27</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:46:06</data>
+    <funcionario>Tony Stark</funcionario>
+    <operacao>Edição</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:48:05</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:48:40</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:48:40</data>
+    <funcionario>Otavio Batista</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:48:40</data>
+    <funcionario>William</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:48:40</data>
+    <funcionario>Joao Paulo</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:48:40</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Restaurado</operacao>
+  </log>
+  <log>
+    <usuario>Administrador</usuario>
+    <data>25/06/2018 12:49:04</data>
+    <funcionario>Marcos Paulo</funcionario>
+    <operacao>Salário Calculado</operacao>
+  </log>
+</logs>

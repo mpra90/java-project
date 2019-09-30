@@ -1,0 +1,30 @@
+Usuário: Administrador
+Data: 26/06/2018 21:41:39
+Funcionario: Leonardo Scheidegger
+Operação: Edição
+---------------------
+Usuário: Administrador
+Data: 26/06/2018 21:41:46
+Funcionario: Wiliam
+Operação: Edição
+---------------------
+Usuário: Administrador
+Data: 26/06/2018 21:41:54
+Funcionario: Valber
+Operação: Edição
+---------------------
+Usuário: Administrador
+Data: 26/06/2018 21:42:04
+Funcionario: Leonardo Scheidegger
+Operação: Salário Calculado
+---------------------
+Usuário: Administrador
+Data: 26/06/2018 21:42:04
+Funcionario: Valber
+Operação: Salário Calculado
+---------------------
+Usuário: Administrador
+Data: 26/06/2018 21:42:04
+Funcionario: Wiliam
+Operação: Salário Calculado
+---------------------
